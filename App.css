@@ -1,0 +1,130 @@
+
+body{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg_dark { 
+  display: flex;
+  margin-left: 4rem;
+  justify-content: space-between;
+}
+.navbar-brand {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-weight: 900;   
+}
+.nav-item {
+  margin-left: 3rem;
+  text-align: center;
+}
+.navbar {
+  background-color: rgb(216, 206, 206);
+}
+
+.carousel-item button{
+  background-color: rgb(33, 132, 99);
+  text-transform: capitalize;
+  color: white;
+  margin: 2rem;
+  border: none;
+  padding: 1rem 1.5rem;  
+}
+
+.carousel-item p {
+  font-size: 2rem;
+}
+.about-section{
+  background-color: rgb(118, 212, 241);
+}
+
+.about-text h3{
+  color: rgb(16, 216, 139);   
+}
+.card-body {
+  display: flex;
+}
+.card-body h5 {
+ padding-top: 1.5rem;
+}
+.card-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+.about-us {
+  background-color: rgb(210, 241, 231);
+}
+
+.who-we-are h2 {
+  color: rgb(61, 200, 154);
+}
+.who-we-are-row {
+  padding: 2rem;
+
+}
+.who-we-are-row h3 {
+  color: rgb(61, 200, 154);
+  text-transform: uppercase;
+}
+.benefits-icons img {
+ height: 60px;  
+}
+.benefits-icons {
+  margin-left: 8rem;
+}
+.our-details {
+  background-color: rgb(210, 241, 231);
+}
+
+.our-details h3 {
+  color: rgb(61, 200, 154);
+}
+.our-details img{
+  border-radius: 6rem;
+}
+.our-details h5{
+  color: rgb(34, 145, 108);
+  text-transform: uppercase;
+  font-family: fantasy;
+  padding-top: 1rem;
+}
+.gallary-sec img {
+  height: 250px;   
+}
+.gallary-sec {
+  background-color: rgb(139, 183, 233);
+}
+
+
+.get-in-touch {
+  background-color: rgb(177, 220, 233);
+}
+
+.get-in-touch button {
+  background-color: rgb(28, 106, 80);
+  color: white;
+  width: 20%;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  
+}
+
+.final-footer {
+  display: flex;
+  justify-content: space-between;
+  font-variant: small-caps;
+}
+.footer_2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+.footiie { 
+  background-color: rgb(216, 206, 206);
+  padding-bottom: 2rem;
+  
+}
